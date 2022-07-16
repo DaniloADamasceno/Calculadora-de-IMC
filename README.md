@@ -11,7 +11,7 @@ O objetivo deste Projeto e o desenvolvimento de uma calculadora para o cálculo 
 Abaixo do peso, peso normal, sobrepeso e obesidades grais I, II e III.
 
 
-o projeto encontra-se hospedado no link abaixo:
+O projeto encontra-se hospedado no link abaixo:
 
 [Calculadora IMC](https://calculadoraimc102.netlify.app/)
 
@@ -27,8 +27,9 @@ Tecnologias utilizadas
 
 •	     [![Netlify Status](https://api.netlify.com/api/v1/badges/4fcccf50-a6d6-452b-839e-6852f4824112/deploy-status)](https://app.netlify.com/sites/clocktimer101/deploys)
 
-##
-# Atualizações
+______________________________________________________________________________________________________________________________________________________________
+# Atualizações de Projeto
 
- *Atualização* 1.01 : 
-Adicionado Imagem no Readme e correções de texto. 
+*Atualização* 1.01 :
+> Adicionada imagem ao Readme e correções gramaticais.
+
