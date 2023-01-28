@@ -6,9 +6,9 @@ Projeto de uma calculadora pra o calculo do IMC
 ![Tabela IMC](https://user-images.githubusercontent.com/71226047/179367326-057129d7-e9c1-4c6e-bee1-11eec6a39a8d.jpg)
 
 <br>
-Este projeto foi criado para colocar em prática os conhecimentos adquiridos em HTML, CSS e Javascript.
+<p>Este projeto foi criado para colocar em prática os conhecimentos adquiridos em HTML, CSS e Javascript.
 O objetivo deste Projeto e o desenvolvimento de uma calculadora para o cálculo do IMC, onde após inserir os dados de Altura o projeto retorna o seu índice de massa corpórea (IMC) com as seguintes classificações:
-Abaixo do peso, peso normal, sobrepeso e obesidades grais I, II e III.
+Abaixo do peso, peso normal, sobrepeso e obesidades grais I, II e III.</p>
 
 
 O projeto encontra-se hospedado no link abaixo:
