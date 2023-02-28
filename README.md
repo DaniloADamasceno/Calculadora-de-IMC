@@ -3,6 +3,9 @@
 Projeto de uma calculadora pra o calculo do IMC 
 <br>
 
+![GitHub repo size](https://img.shields.io/github/repo-size/DaniloADamasceno/Calculadora-de-IMC=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/DaniloADamasceno/Calculadora-de-IMC?style=for-the-badge)
+
 ![Tabela IMC](https://user-images.githubusercontent.com/71226047/179367326-057129d7-e9c1-4c6e-bee1-11eec6a39a8d.jpg)
 
 <br>
@@ -29,6 +32,10 @@ Tecnologias utilizadas
 
 ______________________________________________________________________________________________________________________________________________________________
 # Atualizações de Projeto
+
+
+*Atualização* 1.02 :
+> Adicionada imagem ao Readme.
 
 *Atualização* 1.01 :
 > Adicionada imagem ao Readme e correções gramaticais.
